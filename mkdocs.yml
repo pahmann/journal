@@ -11,6 +11,9 @@ nav:
 theme:
   name: 'material'
   logo: journal.png
+  palette:
+    primary: deep purple
+    accent: deep purple
   features:
     - content.code.copy
     - content.code.annotate
