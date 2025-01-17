@@ -1,14 +1,13 @@
 site_name: Philipp's Journal
-repo_url: https://github.com/pahmann/journal
-
 site_description: 'A collection of work & thoughts'
 site_author: 'Philipp Ahmann'
+site_dir: public
 
-docs_dir: docs/
+repo_url: https://github.com/pahmann/journal
 
 nav:
     - Home: index.md
-    
+
 theme:
   name: 'material'
   features:
