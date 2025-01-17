@@ -10,7 +10,7 @@ nav:
 
 theme:
   name: 'material'
-  logo: journal.jpg
+  logo: journal.png
   features:
     - content.code.copy
     - content.code.annotate
