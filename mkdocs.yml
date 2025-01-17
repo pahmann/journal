@@ -1,0 +1,27 @@
+site_name: Philipp's Journal
+repo_url: https://github.com/pahmann/journal
+
+site_description: 'A collection of work & thoughts'
+site_author: 'Philipp Ahmann'
+
+docs_dir: docs/
+
+nav:
+    - Home: index.md
+    
+theme:
+  name: 'material'
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - navigation.footer
+    - navigation.top
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.pathconverter:
+      absolute: true
+  - pymdownx.tilde
