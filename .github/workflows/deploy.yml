@@ -11,7 +11,7 @@ jobs:
       - name: Checkout the triggering commit
         uses: actions/checkout@v4
       
-      - name: setup python
+      - name: Setup python
         uses: actions/setup-python@v5
         with:
           python-version: 3.x
@@ -21,8 +21,8 @@ jobs:
           pip install -r docs/requirements.txt
           mkdocs build
 
-      - name: Deploy Site
+      - name: Deploy site
         uses: peaceiris/actions-gh-pages@v4.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          keep_files: true
+          publish_dir: ./public
