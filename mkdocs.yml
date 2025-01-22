@@ -12,7 +12,7 @@ nav:
 
 theme:
   name: 'material'
-  logo: journal.png
+  logo: images/journal.png
   palette:
     primary: deep purple
     accent: deep purple

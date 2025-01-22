@@ -4,7 +4,7 @@
     - since 2019 community member
     - since 2023: [Technical Steering Committee Chair](https://elisa.tech/about/tsc/)
 - [Zephyr](https://zephyrproject.org/)
-    - since 2023: promoter
+    - since 2023: promoter (support meetups, presentations, booth support)
 - [Automotive Grade Linux](https://www.automotivelinux.org/)
     - since 2024: [OSPO EG](https://www.automotivelinux.org/announcements/ospo_eg/)
 - [Eclipse SDV](https://sdv.eclipse.org/)
